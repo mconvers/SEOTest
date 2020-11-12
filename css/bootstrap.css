@@ -1675,6 +1675,10 @@ mark {
     margin-bottom: 10px;
 }
 
+.textbld{
+    font-weight: bold;
+}
+
 .textup{
     font-size: 16px;
 }
